@@ -1,0 +1,11 @@
+RESOLVENDO ESSE NIGMA , SEGUI ESSES PASSOS:
+
+1.Ligue o primeiro interruptor e deixe-o ligado por alguns minutos.
+2.Após esse tempo, desligue o primeiro interruptor e ligue imediatamente o segundo interruptor.
+3.Vá até a sala das lâmpadas.
+                Na sala das lâmpadas, você encontrará três situações possíveis:
+
+*Uma lâmpada estará acesa: essa é a lâmpada controlada pelo segundo interruptor, que você deixou ligado.
+*Uma lâmpada estará apagada, mas quente: essa é a lâmpada controlada pelo primeiro interruptor, que você ligou e depois desligou.
+*A terceira lâmpada, que estará apagada e fria, é controlada pelo terceiro interruptor, que você não tocou.
+*Assim, com apenas uma ida até a sala das lâmpadas, você consegue determinar qual interruptor controla cada lâmpada. Não é necessário usar duas idas, uma já é suficiente!
